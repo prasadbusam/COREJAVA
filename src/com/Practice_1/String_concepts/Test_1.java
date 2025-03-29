@@ -26,10 +26,10 @@ public class Test_1 {
 		for(String nam:names) {
 			System.out.println(nam);
 		}
-		/*System.out.println("This is for loop");
-		for(int name1=0;name1<=3;name1++) {
+		System.out.println("This is for loop");
+		for(int name1=0;name1<=4;name1++) {
 			System.out.println(name);
-		}*/
+		}
 		System.out.println();
 		
 		char [] num =name.toCharArray();

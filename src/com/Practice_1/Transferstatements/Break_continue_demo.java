@@ -4,7 +4,7 @@ public class Break_continue_demo {
 
 	public void breakone() {
 		System.out.println("This is break statement");
-		for(int i=0;i<=10;i++)
+		for(int i=0;i<=11;i++)
 		{
 			System.out.println(i);
 		
