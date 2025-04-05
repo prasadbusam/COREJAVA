@@ -17,6 +17,7 @@ public class HashSet_demo {
 		System.out.println(set.size());
 		System.out.println(set.remove("ravi"));
 		System.out.println(set.isEmpty());
+	
 		
 		for(String set1:set) {
 			System.out.println(set1);
