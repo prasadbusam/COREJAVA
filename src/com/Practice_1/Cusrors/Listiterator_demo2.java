@@ -20,7 +20,7 @@ public class Listiterator_demo2 {
 			System.out.println(rt);
 			
 			if(rt.equals("bala")) {
-				op.set("tulasi");
+				op.set("tulasi");  //set is replace the value...
 			}else if(rt.equals("prasad")) {
 				op.add("jitendra");
 			}else if(rt.equals("swami")) {

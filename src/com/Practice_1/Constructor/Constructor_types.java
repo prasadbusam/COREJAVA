@@ -5,11 +5,12 @@ public class Constructor_types {
 		System.out.println("This is default constructor");
 	}
 	public Constructor_types(int a,int b) {
-		System.out.println(a+ " "+b);
+		System.out.println(a+" "+b);
 	}
 	public Constructor_types(String a) {
-		System.out.println("This is good thing :"+a);
+		System.out.println("This is good thing "+a);
 	}
+	
 
 	public static void main(String[] args) {
 		Constructor_types obj=new Constructor_types(); //default constructor
