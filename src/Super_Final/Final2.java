@@ -4,7 +4,7 @@ package Super_Final;
 	System.out.println("This is one test.........");
 }
 
-class two extends one{
+ class two extends one{
 	void m() {
 		System.out.println("This is two test......");
 	}

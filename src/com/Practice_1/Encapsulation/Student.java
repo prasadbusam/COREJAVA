@@ -7,7 +7,7 @@ public class Student {
 	public long getAccno() {
 		return accno;
 	}
-	public void setAccno(int accno) {
+	public void setAccno(long accno) {
 		this.accno = accno;
 	}
 	public String getName() {
