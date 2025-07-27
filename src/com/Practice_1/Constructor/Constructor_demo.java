@@ -1,7 +1,7 @@
 package com.Practice_1.Constructor;
 
 public class Constructor_demo {
-	public Constructor_demo() {
+	Constructor_demo() {
 		int a=10;
 		int b=30;
 		int c=a+b;
