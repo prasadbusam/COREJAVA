@@ -39,7 +39,7 @@ public class Array_demo1 {
 		pra[1][1]="password2";
 		
 		System.out.println("This is for loop");
-		for(int i=0;i<pra.length;i++) {
+		for(int i=0;i<pra.length;i++) {        
 		  for(int j=0;j<pra[i].length;j++) {
 			  System.out.println(pra[i][j]);
 		  }

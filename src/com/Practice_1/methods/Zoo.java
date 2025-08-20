@@ -26,7 +26,7 @@ public class Zoo {
 	}
 	
 	 String g1(String park) {
-		 return("This is national animal");
+		 return("This is national animal:"+park);
 	 }
 
 }
