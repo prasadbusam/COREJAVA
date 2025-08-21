@@ -7,7 +7,7 @@ public class Twodimentional {
 				   {200,201},
 				   {300,301}};
 		//<=a.length-1 → number of rows = 3
-        //c<=a[r].length-1 → number of columns in row i = 2
+        //c<=a[r].length-1 → number of columns in row r = 2
 		System.out.println("no of rows:"+a.length);
 		System.out.println("no of columns:"+a[0].length);
 		//System.out.println(a[2][0]);
